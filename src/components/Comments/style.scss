@@ -1,0 +1,15 @@
+.comments__item:not(:last-of-type){
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
+}
+
+.comments__item-text {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.comments__item-name {
+  font-size: 12px;
+  color: gray;
+}

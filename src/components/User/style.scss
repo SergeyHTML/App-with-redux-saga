@@ -1,0 +1,24 @@
+.article-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.article-author {
+  padding: 15px;
+  margin-bottom: 25px;
+  background: rgba(128, 128, 128, 0.15);
+}
+.article-author__ttl {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.article-info-item {
+  margin-right: 15px;
+  font-size: 12px;
+  line-height: 16px;
+  color: gray;
+
+  &:last-of-type{
+    margin-right: 0;
+  }
+}

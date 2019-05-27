@@ -1,0 +1,24 @@
+.article-item__loading {
+  padding: 50px 0;
+}
+
+.article-item__ttl {
+  font-size: 34px;
+  text-transform: capitalize;
+}
+
+.article-item__text {
+  font-size: 18px;
+  line-height: 1.3;
+  margin-bottom: 50px;
+}
+
+.article-item__comments {
+  padding: 25px;
+  border: 1px solid rgba(128, 128, 128, 0.1);
+}
+
+.article-item__comments-ttl {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
